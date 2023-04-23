@@ -1,4 +1,3 @@
-
 import {NotFoundContainer, Heading, Desc, Image} from './styledComponents'
 // import Header from '../Header'
 
